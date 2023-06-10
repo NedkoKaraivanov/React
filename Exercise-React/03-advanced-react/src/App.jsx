@@ -1,11 +1,11 @@
 
-import Starter from './02-useEffect/starter/04-fetch-data'
+import Demo from './02-useEffect/04-fetch-data'
 
 
 function App() {
   return (
     <div className='container'>
-      <Starter/>
+      <Demo/>
     </div>
   );
 }
